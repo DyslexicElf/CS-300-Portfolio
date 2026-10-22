@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project2-CS300\\x64\\Debug\\ProjectTwo.obj",
+            "outputs": [
+                "Project2-CS300\\x64\\Debug\\ProjectTwo.cpp.obj.dt.module.json",
+                "Project2-CS300\\x64\\Debug\\ProjectTwo.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
